@@ -1,5 +1,6 @@
 # TCFB Homework 01 README Practice
 Author: Braden Bell
+Date: October 3, 2025
 
 ## Summary
 This dataset contains weights, dates, and locations of insects collected in a survey from 2013-2014.
