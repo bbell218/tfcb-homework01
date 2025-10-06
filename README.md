@@ -1,5 +1,5 @@
 # TCFB Homework 01 README Practice
-Author: Braden Bell
+Author: Braden Bell  
 Date: October 3, 2025
 
 ## Summary
@@ -28,6 +28,11 @@ List and images of some insects highlighted in survey dataset:
 - [Camponotus darwinii](images/camponotus_darwinii.jpg)
 - [Cataglyphis fortis](images/cataglyphis_fortis.jpg)
 - [Rhytidoponera metallica](images/rhytidoponera_metallica.jpg)
+
+
+### Embedded image.
+![This is an embedded image](images/acanthomyrmex_ferox.jpg)
+
 
 
 
